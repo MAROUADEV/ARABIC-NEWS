@@ -1,0 +1,99 @@
+[28-Jun-2018 17:35:33 America/New_York] PHP Notice:  Undefined index: Email in /home/maghsasa/public_html/connexion.php on line 141
+[28-Jun-2018 17:35:33 America/New_York] PHP Notice:  Undefined index: MotDePasse in /home/maghsasa/public_html/connexion.php on line 141
+[28-Jun-2018 17:50:00 America/New_York] PHP Warning:  Creating default object from empty value in /home/maghsasa/public_html/class.user.php on line 213
+[28-Jun-2018 17:50:00 America/New_York] PHP Fatal error:  Call to undefined method stdClass::isSMTP() in /home/maghsasa/public_html/class.user.php on line 214
+[28-Jun-2018 17:53:31 America/New_York] PHP Warning:  Creating default object from empty value in /home/maghsasa/public_html/class.user.php on line 213
+[28-Jun-2018 17:53:31 America/New_York] PHP Fatal error:  Call to undefined method stdClass::isSMTP() in /home/maghsasa/public_html/class.user.php on line 214
+[28-Jun-2018 17:54:50 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 213
+[28-Jun-2018 17:58:03 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 213
+[28-Jun-2018 17:58:36 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 212
+[28-Jun-2018 18:02:31 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 212
+[28-Jun-2018 18:06:56 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 212
+[28-Jun-2018 18:11:15 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 212
+[28-Jun-2018 18:16:52 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 212
+[28-Jun-2018 18:19:01 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 212
+[28-Jun-2018 18:20:08 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 212
+[28-Jun-2018 18:20:13 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 212
+[28-Jun-2018 18:21:49 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 212
+[28-Jun-2018 18:22:08 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 212
+[28-Jun-2018 18:22:09 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 212
+[28-Jun-2018 18:23:23 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 213
+[28-Jun-2018 18:24:24 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 212
+[28-Jun-2018 18:30:12 America/New_York] PHP Parse error:  syntax error, unexpected ''ssl://smtp.gmail.com'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/maghsasa/public_html/class.user.php on line 217
+[28-Jun-2018 18:30:27 America/New_York] PHP Parse error:  syntax error, unexpected ''ssl://smtp.gmail.com'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/maghsasa/public_html/class.user.php on line 217
+[28-Jun-2018 18:30:32 America/New_York] PHP Parse error:  syntax error, unexpected ''ssl://smtp.gmail.com'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/maghsasa/public_html/class.user.php on line 217
+[28-Jun-2018 18:30:55 America/New_York] PHP Parse error:  syntax error, unexpected ''ssl://smtp.gmail.com'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/maghsasa/public_html/class.user.php on line 217
+[28-Jun-2018 18:31:12 America/New_York] PHP Parse error:  syntax error, unexpected ''ssl://smtp.gmail.com'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/maghsasa/public_html/class.user.php on line 217
+[28-Jun-2018 18:33:00 America/New_York] PHP Parse error:  syntax error, unexpected ''ssl://smtp.gmail.com'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/maghsasa/public_html/class.user.php on line 217
+[28-Jun-2018 18:33:13 America/New_York] PHP Parse error:  syntax error, unexpected ''ssl://smtp.gmail.com'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/maghsasa/public_html/class.user.php on line 217
+[28-Jun-2018 18:35:05 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 214
+[28-Jun-2018 18:38:14 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 213
+[28-Jun-2018 18:42:06 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 214
+[28-Jun-2018 18:42:38 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 214
+[28-Jun-2018 18:43:00 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 214
+[28-Jun-2018 18:43:57 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 215
+[28-Jun-2018 18:44:26 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 214
+[28-Jun-2018 18:44:27 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 214
+[28-Jun-2018 18:45:12 America/New_York] PHP Fatal error:  Class 'Mail' not found in /home/maghsasa/public_html/class.user.php on line 214
+[28-Jun-2018 19:17:27 America/New_York] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/maghsasa/public_html/class.user.php on line 217
+[28-Jun-2018 19:17:27 America/New_York] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/maghsasa/public_html/class.user.php on line 217
+[28-Jun-2018 19:17:27 America/New_York] PHP Fatal error:  require(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/maghsasa/public_html/class.user.php on line 217
+[28-Jun-2018 19:22:19 America/New_York] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/maghsasa/public_html/class.user.php on line 217
+[28-Jun-2018 19:22:19 America/New_York] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/maghsasa/public_html/class.user.php on line 217
+[28-Jun-2018 19:22:19 America/New_York] PHP Fatal error:  require(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/maghsasa/public_html/class.user.php on line 217
+[28-Jun-2018 19:22:50 America/New_York] PHP Warning:  require(system/includes/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/maghsasa/public_html/class.user.php on line 217
+[28-Jun-2018 19:22:50 America/New_York] PHP Warning:  require(system/includes/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/maghsasa/public_html/class.user.php on line 217
+[28-Jun-2018 19:22:50 America/New_York] PHP Fatal error:  require(): Failed opening required 'system/includes/PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/maghsasa/public_html/class.user.php on line 217
+[28-Jun-2018 19:30:17 America/New_York] PHP Warning:  require(system/includes/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/maghsasa/public_html/class.user.php on line 217
+[28-Jun-2018 19:30:17 America/New_York] PHP Warning:  require(system/includes/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/maghsasa/public_html/class.user.php on line 217
+[28-Jun-2018 19:30:17 America/New_York] PHP Fatal error:  require(): Failed opening required 'system/includes/PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/maghsasa/public_html/class.user.php on line 217
+[29-Jun-2018 02:55:29 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/maghsasa/public_html/class.user.php on line 246
+[29-Jun-2018 03:19:27 America/New_York] PHP Fatal error:  Class 'SMTP' not found in /home/maghsasa/public_html/PHPMailer/class.phpmailer.php on line 1520
+[29-Jun-2018 03:19:50 America/New_York] PHP Fatal error:  Class 'SMTP' not found in /home/maghsasa/public_html/PHPMailer/class.phpmailer.php on line 1520
+[29-Jun-2018 03:27:56 America/New_York] PHP Fatal error:  Class 'SMTP' not found in /home/maghsasa/public_html/PHPMailer/class.phpmailer.php on line 1520
+[29-Jun-2018 03:29:13 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/maghsasa/public_html/class.user.php on line 246
+[29-Jun-2018 03:29:16 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/maghsasa/public_html/class.user.php on line 246
+[29-Jun-2018 12:30:17 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/maghsasa/public_html/class.user.php on line 246
+[29-Jun-2018 13:33:20 America/New_York] PHP Fatal error:  Class 'SMTP' not found in /home/maghsasa/public_html/PHPMailer/class.phpmailer.php on line 1520
+[29-Jun-2018 13:35:49 America/New_York] PHP Fatal error:  Class 'SMTP' not found in /home/maghsasa/public_html/PHPMailer/class.phpmailer.php on line 1520
+[29-Jun-2018 13:57:18 America/New_York] PHP Fatal error:  Class 'SMTP' not found in /home/maghsasa/public_html/PHPMailer/class.phpmailer.php on line 1520
+[29-Jun-2018 14:00:44 America/New_York] PHP Fatal error:  Class 'SMTP' not found in /home/maghsasa/public_html/PHPMailer/class.phpmailer.php on line 1520
+[29-Jun-2018 14:01:03 America/New_York] PHP Fatal error:  Class 'SMTP' not found in /home/maghsasa/public_html/PHPMailer/class.phpmailer.php on line 1520
+[29-Jun-2018 16:09:33 America/New_York] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING) in /home/maghsasa/public_html/send.php on line 35
+[29-Jun-2018 16:38:24 America/New_York] PHP Warning:  require(lib/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/maghsasa/public_html/contact.php on line 24
+[29-Jun-2018 16:38:24 America/New_York] PHP Warning:  require(lib/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/maghsasa/public_html/contact.php on line 24
+[29-Jun-2018 16:38:24 America/New_York] PHP Fatal error:  require(): Failed opening required 'lib/PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/maghsasa/public_html/contact.php on line 24
+[29-Jun-2018 16:38:58 America/New_York] PHP Warning:  require(../PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/maghsasa/public_html/contact.php on line 24
+[29-Jun-2018 16:38:58 America/New_York] PHP Warning:  require(../PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/maghsasa/public_html/contact.php on line 24
+[29-Jun-2018 16:38:58 America/New_York] PHP Fatal error:  require(): Failed opening required '../PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/maghsasa/public_html/contact.php on line 24
+[29-Jun-2018 17:03:43 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/maghsasa/public_html/class.user.php on line 247
+[29-Jun-2018 17:03:50 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/maghsasa/public_html/class.user.php on line 247
+[29-Jun-2018 17:04:50 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/maghsasa/public_html/class.user.php on line 247
+[29-Jun-2018 17:23:36 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/maghsasa/public_html/class.user.php on line 247
+[29-Jun-2018 17:44:02 America/New_York] PHP Notice:  Undefined variable: email in /home/maghsasa/public_html/class.user.php on line 216
+[29-Jun-2018 17:44:02 America/New_York] PHP Notice:  Undefined variable: email_subject in /home/maghsasa/public_html/class.user.php on line 222
+[29-Jun-2018 17:44:02 America/New_York] PHP Notice:  Undefined variable: email_body in /home/maghsasa/public_html/class.user.php on line 222
+[29-Jun-2018 18:30:54 America/New_York] PHP Notice:  Undefined variable: email in /home/maghsasa/public_html/class.user.php on line 216
+[29-Jun-2018 18:30:54 America/New_York] PHP Notice:  Undefined variable: email_subject in /home/maghsasa/public_html/class.user.php on line 222
+[29-Jun-2018 18:30:54 America/New_York] PHP Notice:  Undefined variable: email_body in /home/maghsasa/public_html/class.user.php on line 222
+[29-Jun-2018 18:46:16 America/New_York] PHP Notice:  Undefined variable: email in /home/maghsasa/public_html/class.user.php on line 216
+[29-Jun-2018 18:46:16 America/New_York] PHP Notice:  Undefined variable: email_subject in /home/maghsasa/public_html/class.user.php on line 222
+[29-Jun-2018 18:46:16 America/New_York] PHP Notice:  Undefined variable: email_body in /home/maghsasa/public_html/class.user.php on line 222
+[29-Jun-2018 19:08:23 America/New_York] PHP Notice:  Undefined variable: email in /home/maghsasa/public_html/class.user.php on line 216
+[29-Jun-2018 19:09:16 America/New_York] PHP Notice:  Undefined variable: email in /home/maghsasa/public_html/class.user.php on line 216
+[29-Jun-2018 19:11:04 America/New_York] PHP Notice:  Undefined variable: email in /home/maghsasa/public_html/class.user.php on line 216
+[29-Jun-2018 19:15:36 America/New_York] PHP Notice:  Undefined variable: email in /home/maghsasa/public_html/class.user.php on line 216
+[29-Jun-2018 19:16:23 America/New_York] PHP Notice:  Undefined variable: email in /home/maghsasa/public_html/class.user.php on line 216
+[29-Jun-2018 19:19:04 America/New_York] PHP Notice:  Undefined variable: email in /home/maghsasa/public_html/class.user.php on line 218
+[29-Jun-2018 19:22:42 America/New_York] PHP Notice:  Undefined variable: email in /home/maghsasa/public_html/class.user.php on line 221
+[29-Jun-2018 19:30:50 America/New_York] PHP Notice:  Undefined variable: email in /home/maghsasa/public_html/class.user.php on line 221
+[29-Jun-2018 19:35:14 America/New_York] PHP Notice:  Undefined variable: email in /home/maghsasa/public_html/class.user.php on line 221
+[29-Jun-2018 19:37:15 America/New_York] PHP Notice:  Undefined variable: email in /home/maghsasa/public_html/class.user.php on line 221
+[29-Jun-2018 19:44:50 America/New_York] PHP Notice:  Undefined variable: email in /home/maghsasa/public_html/class.user.php on line 221
+[29-Jun-2018 19:47:37 America/New_York] PHP Notice:  Undefined variable: email in /home/maghsasa/public_html/class.user.php on line 221
+[30-Jun-2018 13:01:09 America/New_York] PHP Notice:  Undefined variable: email in /home/maghsasa/public_html/class.user.php on line 221
+[30-Jun-2018 13:04:22 America/New_York] PHP Notice:  Undefined variable: email in /home/maghsasa/public_html/class.user.php on line 221
+[30-Jun-2018 13:04:54 America/New_York] PHP Notice:  Undefined variable: email in /home/maghsasa/public_html/class.user.php on line 221
+[30-Jun-2018 13:32:22 America/New_York] PHP Notice:  Undefined variable: email in /home/maghsasa/public_html/class.user.php on line 221
+[30-Jun-2018 13:35:03 America/New_York] PHP Notice:  Undefined variable: email in /home/maghsasa/public_html/class.user.php on line 221
+[30-Jun-2018 13:37:59 America/New_York] PHP Notice:  Undefined variable: email in /home/maghsasa/public_html/class.user.php on line 221
